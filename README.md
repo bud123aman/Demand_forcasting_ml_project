@@ -1,4 +1,4 @@
-# Demand forcasting project using Python
+# Demand Forcasting and Inventory Optimisation Project using Python
 
 ## Overview
 
