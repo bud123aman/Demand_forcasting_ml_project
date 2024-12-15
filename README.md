@@ -1,5 +1,4 @@
-# Demand_forcasting_ml_project
-# Demand Forecasting and Inventory Optimization using Python
+# Demand_forcasting_ml_project using Python
 
 ## Overview
 
