@@ -1,4 +1,4 @@
-# Demand_forcasting_ml_project using Python
+# Demand forcasting project using Python
 
 ## Overview
 
